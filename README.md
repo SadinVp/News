@@ -53,7 +53,7 @@ Place the dataset in the `dataset/` folder before training.
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/YourUsername/Fake-News-Detection.git
+git clone https://github.com/SadinVP/News
 cd Fake-News-Detection
 
 ### 2️⃣ Create virtual environment (recommended)
